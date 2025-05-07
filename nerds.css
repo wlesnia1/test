@@ -117,4 +117,5 @@ footer {
     justify-content: space-between;
     flex-direction: column;
     align-items: center;
+    border-top: 2px solid black;
 }
