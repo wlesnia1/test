@@ -84,11 +84,19 @@ main {
     display: flex;
     flex-direction: column;
     text-align: center;
-    min-height: 40rem;
+    min-height: 50rem;
     justify-content: center;
     background-image: url('https://m.media-amazon.com/images/I/71vHXuWM6dL.jpg');
     background-size: cover;
     background-repeat: no-repeat;
+}
+
+#nerds .header {
+    background-color: white;
+}
+
+#nerds .nerdImages {
+    background-color: white;
 }
 
 .nerdImages {
